@@ -1,0 +1,153 @@
+.haider{
+    background-image: url(image8.jpeg);
+    background-size: cover;
+    height: 500px; ;
+}
+
+.Eva {
+    float: right;
+    padding-left: 250px;
+    color: white;
+    font-size: 70px;
+    margin-top: 100px;
+}
+
+li{
+    float: right;
+}
+li a{
+    padding: 16px 14px;
+    color: white;
+    
+}
+
+.i{
+    float: right;
+    margin-top: 260px; 
+}
+     
+.z{ 
+    text-align: center;
+    color: black;
+    font-size: 60px;
+    
+}
+.milieu{
+    display: flex;
+}
+.s{
+    float: right;
+    color: blue;
+    margin-right: 140px;
+}
+.Définition{
+margin-left: 200px;
+float: left;
+
+}
+.m{
+    text-align: center;
+    color: black;
+    font-size: 60px;
+}
+
+.texte{
+    margin-left: 100px;
+    margin-right: 200px;
+    
+
+}
+
+.un{
+display: flex;
+}
+
+.a{
+
+    width: 200px;
+    height: 200px;
+    margin-left: 500px;
+
+}
+.sonde{
+    color: blue;
+}
+.icon{
+    float: left;
+    margin-top: 150px;
+    
+
+}
+
+
+.H{
+    
+    font-size: 30px;
+    margin-top: 100px;
+    
+    
+}
+.bloc{
+    display: flex;
+}
+.Captain1{
+    background-color: red;
+    margin: 50px 50px;
+    margin-right: 150px;
+    
+    
+}
+.Captain2{
+    background-color: blue;
+    margin: 50px 50px;
+    margin-right: 150px;
+}
+.Captain3{
+    background-color: brown;
+    margin: 50px 50px;
+    
+}
+.con{
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.h2{
+    text-align: center;
+}
+.form-group{
+    margin-bottom: 20px;
+}
+.label{
+    display: block;
+    margin-bottom: 5px;
+}
+input[type="text"],
+input[type="email"],
+.textarea{
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.textarea{
+    height: 100px;
+}
+.button{
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: #0056b3;
+}
+.AC{
+    text-align: center;
+    font-size: 60px;
+}
